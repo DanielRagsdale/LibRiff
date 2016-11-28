@@ -1,2 +1,2 @@
 # LibRiff
-A simple Java library for manipulating RIFF-Like files.
+A simple .net library for manipulating RIFF-Like files.
