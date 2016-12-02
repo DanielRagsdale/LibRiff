@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="LibRIFF/LibRIFF.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../ProjectMTools/VectorizeCS/VectorizeCS/Program.cs">
+    <Files>
+      <File FileName="LibRIFF/LibRIFF.cs" Line="43" Column="1" />
+      <File FileName="LibRIFF/Util.cs" Line="16" Column="55" />
+      <File FileName="../ProjectMTools/VectorizeCS/VectorizeCS/Program.cs" Line="22" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/dan/Development/ProjectMTools/VectorizeCS/VectorizeCS/Program.cs" line="13" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
